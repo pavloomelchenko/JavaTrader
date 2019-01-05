@@ -1,5 +1,22 @@
 
 
+///do conversion to plot easily in matlab or python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://poloniex.com/public?command=returnChartData&currencyPair=BTC_USDT&start=1517602220&end=9999999999&period=14400
+
 
 
 
